@@ -1,6 +1,6 @@
 {
   "name": "series-middleware",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Wrapper to execute multiple express like middleware in series minimising leaks",
   "main": "index.js",
   "directories": {
